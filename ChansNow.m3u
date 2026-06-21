@@ -1,0 +1,147 @@
+#EXTM3U tvg-shift="-5"
+#EXTINF:-1 tvg-name="ION TV" tvg-id="" 			tvg-logo="" tvg-country="USA" tvg-language="English" group-title="Local Broadcast" tvg-chno="10",ION
+http://23.237.104.106:8080/USA_ION/index.m3u8
+#EXTINF:-1 tvg-name="ION Plus" tvg-id="" 		tvg-logo="" tvg-country="USA" tvg-language="English" group-title="Local Broadcast" tvg-chno="11",ION Plus
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01438-ewscrippscompan-ionplus-tablo/playlist.m3u8
+#EXTINF:-1 tvg-name="ION Mystery" tvg-id="" 		tvg-logo="" tvg-country="USA" tvg-language="English" group-title="Local Broadcast" tvg-chno="12",ION Mystery
+
+#EXTINF:-1 tvg-name="AccuWeather Now" tvg-id="" 	tvg-logo="" tvg-country="USA" tvg-language="English" group-title="Weather" tvg-chno="25",AccuWeather Now
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00684-accuweather-accuweather-plex/playlist.m3u8
+#EXTINF:-1 tvg-name="Nickelodeon" tvg-id="" 			tvg-logo="" group-title="Kids" tvg-chno="85",Nickelodeon
+http://nor1live.win/livehttpplay?channel_id=23099" 
+#EXTINF:-1 tvg-name="TNT" tvg-id="" 			tvg-logo="" group-title="" tvg-chno="",TNT
+https://raw.githubusercontent.com/InsolenceWillow/insolencetvgo/main/streams/tnteast.us.m3u8
+#EXTINF:-1 tvg-name="TNT West" tvg-id="" 		tvg-logo="" group-title="" tvg-chno="",TNT West
+https://raw.githubusercontent.com/InsolenceWillow/insolencetvgo/main/streams/tntwest.us.m3u8
+#EXTINF:-1 tvg-name="USA Network" tvg-id="" 		tvg-logo="" group-title="" tvg-chno="",USA Network
+http://23.237.104.106:8080/USA_USA_Network/index.m3u8
+#EXTINF:-1 tvg-name="IFC" tvg-id="" 			tvg-logo="" group-title="" tvg-chno="",IFC
+http://23.237.104.106:8080/USA_IFC/index.m3u8
+#EXTINF:-1 tvg-name="SYFY" tvg-id="" 			tvg-logo="" group-title="" tvg-chno="",SYFY
+http://23.237.104.106:8080/USA_SYFY/index.m3u8
+#EXTINF:-1 tvg-name="TBS" tvg-id="" 			tvg-logo="" group-title="" tvg-chno="",TBS
+http://41.205.93.154/TBS/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-name="Paramount HD" tvg-id="" 		tvg-logo="" group-title="" tvg-chno="",Paramount HD
+http://23.237.104.106:8080/USA_PARAMOUNT_NETWORK/index.m3u8 
+#EXTINF:-1 tvg-name="FX" tvg-id="" 			tvg-logo="" group-title="" tvg-chno="",FX
+http://23.237.104.106:8080/USA_FX/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-name="FXX" tvg-id="" 			tvg-logo="" group-title="" tvg-chno="",FXX
+http://23.237.104.106:8080/USA_FXX/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-name="FXM" tvg-id="" 			tvg-logo="" group-title="" tvg-chno="",FXM
+http://23.237.104.106:8080/USA_FXM/index.m3u8
+#EXTINF:-1 tvg-name="Comedy Central" tvg-id=""		tvg-logo="" group-title="" tvg-chno="",Comedy Central
+http://23.237.104.106:8080/USA_COMEDY_CENTRAL/index.m3u8
+#EXTINF:-1 tvg-name="Cartoon Network" tvg-id=""		tvg-logo="" group-title="" tvg-chno="",Cartoon Network
+http://23.237.104.106:8080/USA_CARTOON_NETWORK/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-name="Starz" tvg-id="" 			tvg-logo="" group-title="Premium" tvg-chno="309",Starz
+http://23.237.104.106:8080/USA_STARZ/index.m3u8
+#EXTINF:-1 tvg-name="Starz Cinema" tvg-id="" 		tvg-logo="" group-title="Premium" tvg-chno="311",Starz Cinema
+http://23.237.104.106:8080/USA_STARZ_CINEMA/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-name="Starz Comedy" tvg-id="" 		tvg-logo="" group-title="Premium" tvg-chno="313",Starz Comedy
+http://23.237.104.106:8080/USA_STARZ_COMEDY/index.m3u8
+#EXTINF:-1 tvg-name="Cinemax" tvg-id="" 		tvg-logo="" group-title="Premium" tvg-chno="316",Cinemax
+http://23.237.104.106:8080/USA_CINEMAX/index.m3u8
+#EXTINF:-1 tvg-name="MoreMax" tvg-id="" 		tvg-logo="" group-title="Premium" tvg-chno="317",MoreMax
+http://23.237.104.106:8080/USA_MOREMAX/index.m3u8
+#EXTINF:-1 tvg-name="OuterMax" tvg-id="" 		tvg-logo="" group-title="Premium" tvg-chno="321",OuterMax
+http://23.237.104.106:8080/USA_5STARMAX/index.m3u8
+#EXTINF:-1 tvg-name="Showtime" tvg-id="" 		tvg-logo="" group-title="Premium" tvg-chno="326",Showtime
+http://23.237.104.106:8080/USA_SHOWTIME/index.m3u8
+#EXTINF:-1 tvg-name="Showtime Family Zone" tvg-id="" 	tvg-logo="" group-title="Premium" tvg-chno="331",Showtime Family Zone
+http://23.237.104.106:8080/USA_SHOWTIME_FAMILY/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-name="HBO" tvg-id="" 			tvg-logo="" group-title="Premium" tvg-chno="338",HBO
+http://23.237.104.106:8080/USA_HBO/index.m3u8
+#EXTINF:-1 tvg-name="HBO West" tvg-id="" 		tvg-logo="" group-title="Premium" tvg-chno="333",HBO West
+#EXTINF:-1 tvg-name="HBO 2" tvg-id="" 			tvg-logo="" group-title="Premium" tvg-chno="339",HBO 2
+http://23.237.104.106:8080/USA_HBO2/index.m3u8
+#EXTINF:-1 tvg-name="HBO Comedy" tvg-id="" 		tvg-logo="" group-title="Premium" tvg-chno="340",HBO Comedy
+http://23.237.104.106:8080/USA_HBO_COMEDY/index.m3u8
+#EXTINF:-1 tvg-name="HBO Family" tvg-id="" 		tvg-logo="" group-title="Premium" tvg-chno="341",HBO Family
+#EXTINF:-1 tvg-name="HBO Zone" tvg-id="" 		tvg-logo="" group-title="Premium" tvg-chno="342",HBO Zone
+http://23.237.104.106:8080/USA_HBO_ZONE/index.m3u8
+#EXTINF:-1 tvg-name="HBO Signature" tvg-id="" 		tvg-logo="" group-title="Premium" tvg-chno="343",HBO Signature
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#EXTINF:-1 tvg-name="Brazzers" tvg-id=""		tvg-logo="" 	group-title="Adult" tvg-chno="500",Brazzers
+#EXTINF:-1 tvg-name="Mofos" tvg-id="" 			tvg-logo="" 	group-title="Adult" tvg-chno="501",Mofos
+#EXTINF:-1 tvg-name="Reality Kings" tvg-id="" 		tvg-logo="" 	group-title="Adult" tvg-chno="502",Reality Kings
+#EXTINF:-1 tvg-name="Bang Bros" tvg-id=""		tvg-logo="" 	group-title="Adult" tvg-chno="503",Bang Bros
+#EXTINF:-1 tvg-name="Hussie Pass" tvg-id=""		tvg-logo="" 	group-title="Adult" tvg-chno="504",Hussie Pass
+#EXTINF:-1 tvg-name="Adult Time" tvg-id="" 		tvg-logo="" 	group-title="Adult" tvg-chno="505",Adult Time
+#EXTINF:-1 tvg-name="Dogfart Network"tvg-id="" 		tvg-logo="" 	group-title="Adult" tvg-chno="506",Dogfart Network
+#EXTINF:-1 tvg-name="Evil Angel" tvg-id="" 		tvg-logo="" 	group-title="Adult" tvg-chno="507",Evil Angel
+#EXTINF:-1 tvg-name="Anal 4K" tvg-id="" 		tvg-logo="" 	group-title="Adult" tvg-chno="508",Anal 4K
+#EXTINF:-1 tvg-name="BBC Pie" tvg-id="" 		tvg-logo="" 	group-title="Adult" tvg-chno="509",BBC Pie
+#EXTINF:-1 tvg-name="Blacks On Blonds" tvg-id=""	tvg-logo="" 	group-title="Adult" tvg-chno="510",Blacks On Blonds
+#EXTINF:-1 tvg-name="Brown Bunnies" tvg-id="" 		tvg-logo="" 	group-title="Adult" tvg-chno="511",Brown Bunnies
+#EXTINF:-1 tvg-name="Cum 4K" tvg-id=""			tvg-logo="" 	group-title="Adult" tvg-chno="512",Cum 4K
+#EXTINF:-1 tvg-name="Digital Playground" tvg-id="" 	tvg-logo="" 	group-title="Adult" tvg-chno="513",Digital Playground
+#EXTINF:-1 tvg-name="Holed" tvg-id="" 			tvg-logo="" 	group-title="Adult" tvg-chno="514",Holed
+#EXTINF:-1 tvg-name="Interracial Blow Bang" tvg-id="" 	tvg-logo="" 	group-title="Adult" tvg-chno="515",Interracial Blow Bang
+#EXTINF:-1 tvg-name="Interracial Pass" tvg-id="" 	tvg-logo="" 	group-title="Adult" tvg-chno="516",Interracial Pass
+#EXTINF:-1 tvg-name="Lubed" tvg-id=""			tvg-logo="" 	group-title="Adult" tvg-chno="517",Lubed
+#EXTINF:-1 tvg-name="Monsters Of Cock" tvg-id=""	tvg-logo="" 	group-title="Adult" tvg-chno="518",Monsters Of Cock
+#EXTINF:-1 tvg-name="We Fuck Black Girls" tvg-id=""	tvg-logo="" 	group-title="Adult" tvg-chno="519",We Fuck Black Girls
+#EXTINF:-1 tvg-name="Perv Mom" tvg-id="" 		tvg-logo="" 	group-title="Adult" tvg-chno="520",Perv Mom
+#EXTINF:-1 tvg-name="Perv Nana" tvg-id="" 		tvg-logo="" 	group-title="Adult" tvg-chno="521",Perv Nana
+#EXTINF:-1 tvg-name="Bratty MILF" tvg-id="" 		tvg-logo="" 	group-title="Adult" tvg-chno="522",Bratty MILF
+#EXTINF:-1 tvg-name="Bratty Sis" tvg-id="" 		tvg-logo="" 	group-title="Adult" tvg-chno="523",Bratty Sis
+#EXTINF:-1 tvg-name="Daughter Swap" tvg-id="" 		tvg-logo=""	group-title="Adult" tvg-chno="524",Daughter Swap
+#EXTINF:-1 tvg-name="Mom Swap" tvg-id="" 		tvg-logo="" 	group-title="Adult" tvg-chno="525",Mom Swap
+#EXTINF:-1 tvg-name="Sis Swap" tvg-id="" 		tvg-logo="" 	group-title="Adult" tvg-chno="526",Sis Swap
+#EXTINF:-1 tvg-name="Tiny 4K" tvg-id="" 		tvg-logo="" 	group-title="Adult" tvg-chno="527",Tiny 4K
+#EXTINF:-1 tvg-name="My pervy Family" tvg-id="" 	tvg-logo="" 	group-title="Adult" tvg-chno="528",My pervy Family
+#EXTINF:-1 tvg-name="Perv City" tvg-id="" 		tvg-logo="" 	group-title="Adult" tvg-chno="529",Perv City
+#EXTINF:-1 tvg-name="Throat Destruction Party" tvg-id="" tvg-logo="" 	group-title="Adult" tvg-chno="530",Throat Destruction Party
+#EXTINF:-1 tvg-name="Pure Taboo" tvg-id="" 		tvg-logo="" 	group-title="Adult" tvg-chno="531",Pure Taboo
+#EXTINF:-1 tvg-name="Filthy Kings" tvg-id="" 		tvg-logo="" 	group-title="Adult" tvg-chno="532",Filthy Kings
+#EXTINF:-1 tvg-name="Pissing Honeys" tvg-id="" 		tvg-logo="" 	group-title="Adult" tvg-chno="533",Pissing Honeys
+#EXTINF:-1 tvg-name="Ass Parade" tvg-id="" 		tvg-logo=""	group-title="Adult" tvg-chno="534",Ass Parade
+#EXTINF:-1 tvg-name="Power Munch" tvg-id="" 		tvg-logo=""	group-title="Adult" tvg-chno="535",Power Munch
+#EXTINF:-1 tvg-name="18 Eighteen" tvg-id="" 		tvg-logo=""	group-title="Adult" tvg-chno="536",18 Eighteen
+#EXTINF:-1 tvg-name="Dick Drainers" tvg-id="" 		tvg-logo=""	group-title="Adult" tvg-chno="537",Dick Drainers
+#EXTINF:-1 tvg-name="Kink" tvg-id="" 			tvg-logo=""	group-title="Adult" tvg-chno="538",Kink
+#EXTINF:-1 tvg-name="Trans Angels" tvg-id="" 		tvg-logo=""	group-title="Adult" tvg-chno="539",Trans Angels
+#EXTINF:-1 tvg-name="Trans Erotica" tvg-id="" 		tvg-logo=""	group-title="Adult" tvg-chno="540",Trans Erotica
+#EXTINF:-1 tvg-name="Transsexual Angel" tvg-id=""	tvg-logo="" 	group-title="Adult" tvg-chno="541",Transsexual Angel
+#EXTINF:-1 tvg-name="Big Booty TGirls" tvg-id=""	tvg-logo="" 	group-title="Adult" tvg-chno="542",Big Booty TGirls
+#EXTINF:-1 tvg-name="Ladyboy Gold" tvg-id="" 		tvg-logo="" 	group-title="Adult" tvg-chno="543",Ladyboy Gold
+#EXTINF:-1 tvg-name="Hannah Hays" tvg-id="" 		tvg-logo="" 	group-title="Adult" tvg-chno="544",Hannah Hays
+#EXTINF:-1 tvg-name="Lauren Phillips" tvg-id=""		tvg-logo="" 	group-title="Adult" tvg-chno="545",Lauren Phillips
+#EXTINF:-1 tvg-name="Lexi Lore" tvg-id=""		tvg-logo="" 	group-title="Adult" tvg-chno="546",Lexi Lore
+#EXTINF:-1 tvg-name="Molly Little" tvg-id=""		tvg-logo="" 	group-title="Adult" tvg-chno="547",Molly Little
+#EXTINF:-1 tvg-name="Valerica Steele" tvg-id=""		tvg-logo="" 	group-title="Adult" tvg-chno="548",Valerica Steele
+
+
+
+
+
+
+
+
+
+
+
